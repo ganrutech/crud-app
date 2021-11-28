@@ -1,0 +1,12 @@
+.container {
+  width: 30%;
+  padding: 10px;
+  margin: auto;
+}
+form div {
+  padding-bottom: 20px;
+}
+
+form label {
+  margin-right: 10px;
+}
